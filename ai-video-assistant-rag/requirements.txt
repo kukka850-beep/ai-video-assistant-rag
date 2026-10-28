@@ -1,0 +1,13 @@
+streamlit>=1.39
+openai-whisper>=20240930
+torch>=2.2
+yt-dlp>=2025.1.0
+sentence-transformers>=3.0
+chromadb>=0.5
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+mistralai>=1.0
+requests>=2.32
+python-dotenv>=1.0
+reportlab>=4.2
+pydub>=0.25

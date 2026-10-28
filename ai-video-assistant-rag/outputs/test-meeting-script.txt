@@ -1,0 +1,5 @@
+Good morning team. We agreed to launch the customer dashboard on Friday, August twenty-third.
+
+Priya will finish the payment integration by Wednesday. Rahul will prepare the launch email by Thursday.
+
+The final open question is whether we need a mobile onboarding video. We will decide that in tomorrow's stand-up.
